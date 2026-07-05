@@ -8,3 +8,4 @@ Texte officiel de la branche main
 travail temporaire en cours...
 ligne commit 1
 Ligne commit 2 - CIBLE CHERRY-PICK
+Mise a jour globale
